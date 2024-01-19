@@ -1,12 +1,6 @@
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
-/**
- * A class to maintain an arbitrarily long list of notes.
- * Notes are numbered for external reference by a human user.
- * In this version, note numbers start at 0.
- * @author David J. Barnes and Michael Kolling.
- * @version 2001.06.08
- */
+
 public class MenuNotebook
 {
     // Storage for an arbitrary number of notes.
